@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @FierceInc
-- 👀 I’m interested in computers in general.
-- 🌱 I’m currently learning, Javascript, React, BootStrap, jQuery and Python.
-But at the moment I'm trying to better my Javascript skills before I bite more than I can chew :)
-- 💞️ I’m looking to collaborate on making and or improving projects of any kind, I enjoy programming
-- 📫 How to reach me ...
+# 👋 Hi, I’m Sizo Mhlongo @FierceInc
+
+### Web Developer
+
+- If it says development I'm interested.
+- My main interest is Web Development both Front-End and Back-End as I aim to become a FullStack Web Developer in the near future.
+- Do you want to collab? Hit me up on my socials or in person if you know me.
+- I specialize in JS but not limited to it.
+- [x] Reach me on <a href="https://twitter.com/MhlongoSizo">TWITTER</a> and actually leave a follow.
 
 <!---
 FierceInc/FierceInc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
