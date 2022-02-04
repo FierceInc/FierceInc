@@ -3,14 +3,12 @@
 ## About Me:
  I am a self taught web developer who spends most of his time learning and working to become one of the best developers in history. If there's an opportunity to learn or teach then I'm there.:computer: :smile:
 
-
 ## Stay Connected:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]()
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]()
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)]()
-
 
 ## Technologies 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,8 +21,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-
-
 
 ## Frameworks and Libraries
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -46,13 +42,13 @@
 
 ## Stats: 
 <a href="https://github.com/FierceInc/github-readme-stats" >
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=FierceInc&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=04a3ff&currStreakNum=04a3ff&currStreakLabel=04a3ff&sideLabels=04a3ff&sideNums=04a3ff&fire=04a3ff" width="350px" />  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=FierceInc&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=04a3ff&currStreakNum=04a3ff&currStreakLabel=04a3ff&sideLabels=04a3ff&sideNums=04a3ff&fire=04a3ff" width="390px" />  
 </a>
 <a href="https://github.com/FierceInc/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FierceInc&theme=blue-green&hide=stars&show_icons=true&icon_color=04a3ff&text_color=04a3ff&bg_color=000&hide_border=true&line_height=30" width="350px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FierceInc&theme=blue-green&hide=stars&show_icons=true&icon_color=04a3ff&text_color=04a3ff&bg_color=000&hide_border=true&line_height=30" width="390px"/>
 </a>
 
-<br>
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FierceInc&bg_color=000&hide_border=true&layout=compact)
 
