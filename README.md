@@ -46,16 +46,16 @@
 
 ## Stats: 
 <a href="https://github.com/FierceInc/github-readme-stats" >
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=FierceInc&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=04a3ff&currStreakNum=04a3ff&currStreakLabel=04a3ff&sideLabels=04a3ff&sideNums=04a3ff&fire=04a3ff" width="465px" />  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=FierceInc&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=04a3ff&currStreakNum=04a3ff&currStreakLabel=04a3ff&sideLabels=04a3ff&sideNums=04a3ff&fire=04a3ff" width="350px" />  
 </a>
 <a href="https://github.com/FierceInc/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FierceInc&theme=blue-green&hide=stars&show_icons=true&icon_color=04a3ff&text_color=04a3ff&bg_color=000&hide_border=true&line_height=30" width="465px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FierceInc&theme=blue-green&hide=stars&show_icons=true&icon_color=04a3ff&text_color=04a3ff&bg_color=000&hide_border=true&line_height=30" width="350px"/>
 </a>
 
 <br>
 
 <a href="https://github.com/FierceInc/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FierceInc&bg_color=000&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FierceInc&bg_color=000&hide_border=true&layout=compact" />
 </a>
 
 ## I HOPE YOU ARE HAVING A GREAT DAY :blush: :fire:
