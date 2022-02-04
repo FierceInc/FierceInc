@@ -54,8 +54,7 @@
 
 <br>
 
-<a href="https://github.com/FierceInc/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FierceInc&bg_color=000&hide_border=true&layout=compact" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FierceInc&bg_color=000&hide_border=true&layout=compact)
+
 
 ## I HOPE YOU ARE HAVING A GREAT DAY :blush: :fire:
